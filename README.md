@@ -1,2 +1,2 @@
-# disha123rox.github.io
-# Trying to make my website. Do visit and suggestions are appreciated.
+This is the source code to my personal website. To visit the website follow the link:
+http://www.dishanathani.com
